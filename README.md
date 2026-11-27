@@ -33,4 +33,4 @@ jupyter notebook teleportation.ipynb
 
 The state is moved rather than copied, since Alice's original is destroyed when she measures it. Teleportation also can't send anything faster than light, because Bob's qubit is useless until Alice's two bits reach him through a normal channel. Those two bits are completely random, so anyone who intercepts them learns nothing about the state itself. Teleportation is a key building block for quantum networks and for linking separate quantum processors together.
 
-Made by Sultana with [Qiskit](https://www.ibm.com/quantum/qiskit).
+Made with [Qiskit](https://www.ibm.com/quantum/qiskit).
